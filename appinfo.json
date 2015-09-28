@@ -1,0 +1,103 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 0,
+        "KEY_IMPERIAL": 4,
+        "KEY_POWERSAVING": 3,
+        "KEY_TEMPERATURE_C": 1,
+        "KEY_TEMPERATURE_F": 2
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "MentalShark",
+    "longName": "MGSV Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/original face.png",
+                "name": "IMAGE_BACKGROUND_MGSV",
+                "type": "png"
+            },
+            {
+                "file": "images/SU.png",
+                "name": "IMAGE_SU",
+                "type": "png"
+            },
+            {
+                "file": "images/SA.png",
+                "name": "IMAGE_SA",
+                "type": "png"
+            },
+            {
+                "file": "images/TH.png",
+                "name": "IMAGE_TH",
+                "type": "png"
+            },
+            {
+                "file": "images/WE.png",
+                "name": "IMAGE_WE",
+                "type": "png"
+            },
+            {
+                "file": "images/TU.png",
+                "name": "IMAGE_TU",
+                "type": "png"
+            },
+            {
+                "file": "images/MO.png",
+                "name": "IMAGE_MO",
+                "type": "png"
+            },
+            {
+                "file": "images/FR.png",
+                "name": "IMAGE_FR",
+                "type": "png"
+            },
+            {
+                "file": "images/original face diamond.png",
+                "name": "IMAGE_DIAMOND",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/5x5 (2).ttf",
+                "name": "FONT_SMALL_PIXEL_15",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DSEG7Classic-Bold.ttf",
+                "name": "FONT_SEVEN_SEG_15",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DSEG7Classic-Bold.ttf",
+                "name": "FONT_SEVEN_SEG_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DSEG7Classic-Bold.ttf",
+                "name": "FONT_SEVEN_SEG_30",
+                "trackingAdjust": -1,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MGSV",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "159d9df9-36e6-4afa-bb03-852c19662283",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
